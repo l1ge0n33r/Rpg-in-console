@@ -74,7 +74,7 @@ void MainMenu()
 		
 		// nickname input
 
-		// diffuculty (usless)
+		// diffuculty (no use)
 
 		//
 		mainMenu = false;
