@@ -3,26 +3,12 @@
 //
 //
 
-#include "pch.h"
 #include <iostream>
 #include <fstream>
 #include <string>
 
 ; using namespace std;
-/*TODO: 
--систему сохранить-загрузить (IN PRIORITY!!!)
 
--добавить арену 
--добавить врагов
--систему боя (пошаговая)
-
-
--сделать инвентарь
-
--систему получения лута
-
--вход\выход из здания
-*/
 string nickName;
 bool gameover = false;
 const short int spawn_id = 1;
